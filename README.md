@@ -1,6 +1,6 @@
-# Jaret-Sanchez-AI-Portfolio
+### Jaret-Sanchez-AI-Portfolio
 Applied AI Portfolio - Houston Community College
-### This will be modified later on
+# This will be modified later on
 
 ## About Me
 I am an Applied AI student at Houston Community College, specializing in 
