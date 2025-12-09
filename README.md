@@ -49,5 +49,5 @@ Object detection model using YOLOv8.
 
 ## Contact
 - Email: julyjj2742@gmail.com
-- LinkedIn: linkedin.com/in/jaret-sanchez-692592164
+- LinkedIn: linkedin.com/in/jaret-sanchez-692592164/
 - GitHub: https://github.com/julyjj2742-create
