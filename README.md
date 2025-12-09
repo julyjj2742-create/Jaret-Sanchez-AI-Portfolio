@@ -1,11 +1,9 @@
-### Jaret-Sanchez-AI-Portfolio
-Applied AI Portfolio - Houston Community College
-# This will be modified later on
+### Jaret Sanchez
+### Applied AI Portfolio - Houston Community College
 
 ## About Me
-I am an Applied AI student at Houston Community College, specializing in 
-deep learning and computer vision. This portfolio showcases my journey 
-through the AI & Robotics program.
+I am an Applied AI student at Houston Community College, specializing in computer vision, machine learning, and deep learning. This portfolio showcases my journey 
+through the ITAI 1378 - Computer Vision & AI. My labs demonstrate my practical experience building AI systems using OpenCV, classical ML, CNNs, transfer learning, visual-language models, and modern object detection techniques.
 
 ## Technical Skills
 - Python, TensorFlow, PyTorch, Keras
@@ -14,21 +12,42 @@ through the AI & Robotics program.
 - Natural Language Processing
 - Jupyter Notebooks, Google Colab
 
-## Featured Courses & Projects
+## Course Projects - ITAI 1378 Computer Vision & AI
 
-### Deep Learning (ITAI 2376)
-- [CNN Image Classifier](link-to-project) - Achieved 95% accuracy on CIFAR-10
-- [RNN Text Generator](link-to-project) - Generated coherent text using LSTM
+### L00 - Colab and Tools Practice Run
+Introduction to Google Colab, Python notebooks, and setup for the course.
 
-### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
-- [Image Segmentation](link-to-project) - Semantic segmentation with U-Net
+### L01 - Real-World Applications of Computer Vision
+Exploration of how CV is used in healthcare, manufacturing, robotics, and security. I decided to focus on autonomous vehicles.
 
-### Natural Language Processing (ITAI 2373)
-- [Sentiment Analysis Tool](link-to-project) - Analyzed customer reviews
-- [Chatbot Implementation](link-to-project) - Built conversational AI
+### L02 - Image Processing Fundamentals
+Hands-on experience with filters, kernels, blurring, edge detection, and color models.
+
+### A02 - Image Processing Adventure Quest (Team Project)
+Exploring the fundamental concepts of image processing through a creative and interactive "adventure quest."
+
+### L03 - Classic Machine Learning for Computer Vision
+Applied SVMs, KNN, Random Forest, Naive Bayes, and extraction techniques.
+
+## L04 - Chihuahua or Muffin
+Built a classical ML classifier to distinguish dogs from muffins.
+
+## L05 - Chihuahua or Muffin CNN
+Improved classification accuracy using a Convolutional Neural Network.
+
+## L06 - Object Detection with Transfer Learning
+Fine-tuned a pretrained object detection model using the Pascal VOC dataset.
+
+## L08 - Visual Language Models (VLMs)
+Explored image captioning and VL models such as BLIP and CLIP.
+
+## Midterm Project - Proposal
+Formal project planning for the Final Computer Vision course.
+
+## Final Project - Face Mask Detection
+Object detection model using YOLOv8.
 
 ## Contact
-- Email: john.smith@example.com
-- LinkedIn: linkedin.com/in/johnsmith
-- GitHub: github.com/john-smith
+- Email: julyjj2742@gmail.com
+- LinkedIn: linkedin.com/in/jaret-sanchez-692592164
+- GitHub: https://github.com/julyjj2742-create
