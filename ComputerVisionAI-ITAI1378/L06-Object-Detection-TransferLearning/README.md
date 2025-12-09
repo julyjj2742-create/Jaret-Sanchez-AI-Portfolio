@@ -16,4 +16,4 @@ This lab focused on object detection using transfer learning with a pretrained d
 - Interpreting predictions with bounding boxes  
 
 ## Files
-- `L06_ObjectDetection.ipynb` — training and evaluation notebook  
+- `L06_ObjectDetection.ipynb` — training and evaluation notebook. A lab journal is at the end of the notebook.
