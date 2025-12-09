@@ -11,5 +11,5 @@ This lab revisited the Chihuahua vs. Muffin classification task using a convolut
  
 ## Files
 - `L05_CNN.ipynb` — complete training, evaluation, and visualizations
-- `L05_CNN_Experiment.ipynb` — Additional experiments for the Lab
+- `L05_CNN_Experiment.ipynb` — I reduced the epoch and the learning rate
 - `L05_CNN_Journal.pdf` — Lab journal
