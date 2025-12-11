@@ -13,5 +13,5 @@ A computer vision system that detects whether people are:
 
 ## Files
 - `Final_Project_FaceMaskDetection.ipynb` – main project notebook with training, evaluation, and predictions.
-- `results/success_1.jpg`, `results/success_2.jpg` – correct detections.
-- `results/failure_1.jpg` – example where the model struggled.
+- `results/images` - output examples
+- `Final_Proposal` - polished presentation
