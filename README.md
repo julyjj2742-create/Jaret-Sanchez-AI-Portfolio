@@ -29,22 +29,22 @@ Exploring the fundamental concepts of image processing through a creative and in
 ### L03 - Classic Machine Learning for Computer Vision
 Applied SVMs, KNN, Random Forest, Naive Bayes, and extraction techniques.
 
-## L04 - Chihuahua or Muffin
+### L04 - Chihuahua or Muffin
 Built a classical ML classifier to distinguish dogs from muffins.
 
-## L05 - Chihuahua or Muffin CNN
+### L05 - Chihuahua or Muffin CNN
 Improved classification accuracy using a Convolutional Neural Network.
 
-## L06 - Object Detection with Transfer Learning
+### L06 - Object Detection with Transfer Learning
 Fine-tuned a pretrained object detection model using the Pascal VOC dataset.
 
-## L08 - Visual Language Models (VLMs)
+### L08 - Visual Language Models (VLMs)
 Explored image captioning and VL models such as BLIP and CLIP.
 
-## Midterm Project - Proposal
+### Midterm Project - Proposal
 Formal project planning for the Final Computer Vision course.
 
-## Final Project - Face Mask Detection
+### Final Project - Face Mask Detection
 Object detection model using YOLOv8.
 
 ## Contact
